@@ -1,8 +1,8 @@
-## This game was created as a collaborative course-based effort in Fall 2023.
+This game was created as a collaborative course-based effort in Fall 2023.
 
-# How to play Aqua Bird
+## How to play Aqua Bird
 
-## System Setup
+System Setup
 1. To run the program, you want to use an IDE like Eclipse that allows easy use of JavaFX libraries. Download Eclipse [here](https://www.eclipse.org/downloads/).
 
 2. Once you have your desired IDE which can run JavaFX on your system, download JavaFX onto your laptop. Download JavaFX [here](https://gluonhq.com/products/javafx/).
@@ -20,7 +20,7 @@
 5. While adding the JavaFX library, also add a JRE system library to the project's ModulePath.
 	- To do this on Eclipse: ModulePath > JRE System Library > Workspace Default
 
-## Features of the game
+Features of the game
 1. The game emulates a combination of 2 popular bird-centered games: Flappy Bird and Angry Birds. The bird, called 'Aqua Bird' due to our beach + ocean theme, needs to pass through different obstacles and can also gain bonuses through the game.
 
 2. The background of the game scene changes periodically.
