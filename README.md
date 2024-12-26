@@ -1,3 +1,5 @@
+This game was created as a collaborative course-based effort in Fall 2023. 
+
 # How to play Aqua Bird
 
 ## System Setup
